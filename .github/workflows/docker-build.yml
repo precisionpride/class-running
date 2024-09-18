@@ -10,9 +10,6 @@ jobs:
   build:
     runs-on: self-hosted
     steps:
-    - name: Fix permissions
-      run: sudo chown -R $(whoami) /home/action/actions-runner/_work/class-running/class-running
-
     - uses: actions/checkout@v4
       with:
         clean: false
