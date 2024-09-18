@@ -25,6 +25,9 @@ const Info = () => {
                     Storage device w/ 5 GB free space<br></br>
                     Cooling system<br></br>
 
+                    Running Fridge allows you to sign up and create an account secured by JWTdown tokens. With this you can easily access your grocery items on hand and add new ones as well. You can also use our AI services to create recipes. Input the items manually or scan the QR code at select stores to auto input all the grocery info immediately! All you need is a computer with a web browser/camera and an internet connection. We currently support all PCs and are working on refining our application for mobile devices!
+
+
                 </p>
                 <motion.a
                     href="#features"

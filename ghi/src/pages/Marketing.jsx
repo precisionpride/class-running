@@ -33,12 +33,11 @@ const Market = () => {
                             />
                         </div>
                     </p>
-                    Running Fridge is a completely free grocery inventory app. Sign up today and receive free coupons to your favorite stores!
-                    Here at Running Fridge we strive to minimize food waste and maximize ease of tracking your groceries!<br></br>
-                    Every year Americans throw out thousands of pounds of food for many reasons including forgetting you even had it!<br></br>
-                    To help the family save money and use food efficiently we developed this app to track groceries, their expiration dates,<br></br>
-                    and even offer tasty recipes using food that is going to expire soon so it doesnt go to waste!
-                    Come join us today!
+                    SAVE Money & Time!!!!
+
+                    HATE WASTING FOOD?
+                    Food waste is a major issue in our world. Americans throw out hundreds of pounds of food a year! If your heart sinks throwing out food you with you didn’t forget, or realized it expired yesterday, or just don’t know how to use an expiring item with what you have on hand? Then running Fridge is your solution! We offer the only QR code receipt reader for select stores that auto inputs your groceries with all the information you'd need! Cost, amount, nutrition, and of course expiration! Running Fridge will notify you when an item comes close to expiring and give your recipes to use with it using other things you have on hand!
+
                 </p>
                 <motion.a
                     href="#features"
