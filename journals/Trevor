@@ -1,0 +1,32 @@
+February 27, 2024:
+The team established the project repository and devised a strategy to initiate the project by replicating the backend structure from a practice repository.
+
+February 28, 2024:
+The team held its inaugural standup meeting to review individual progress and outline plans for the day, aiming to finalize the FastAPI for the backend after gaining a deeper understanding from revisiting relevant lectures.
+
+February 29, 2024:
+Collaboratively worked on backend API development, with one team member leading the process while others provided support and advice. Successfully implemented login and logout functionalities for the React frontend.
+
+March 1, 2024:
+Addressed backend code issues and transitioned to using MongoDB, finding it to be a more user-friendly option. Ensured smooth collaboration by facilitating effective code pulling and updating for all team members.
+
+March 2, 2024:
+Initiated frontend development with a focus on creating minimal JSX files. Consolidated efforts by merging files with team members to start afresh and ensure a cohesive approach.
+
+March 4, 2024:
+Resolved backend issues collaboratively, completing backend authentication and connecting files to finalize backend endpoints.
+
+March 5, 2024:
+Started integrating authentication into endpoints, adding password account data for each operation such as adding, creating, deleting, and updating.
+
+March 6-11, 2024:
+Continued frontend development, concentrating on incorporating authentication for login and sign-up functionalities. Utilized Tailwind CSS for styling and adhered to the original design concept from Excalidraw.
+
+March 12-15, 2024:
+Pursued individual frontend work to explore authentication integration while maintaining consistency with the original design. Made progress in frontend styling and visualization, incorporating desired features and functionalities.
+
+March 18-21, 2024:
+Conducted group coding sessions to refine project design and functionality. Achieved significant milestones, including completing protein/produce pages with add, create, and update functionalities. Ensured seamless navigation and functionality across all pages for efficient inventory management.
+
+March 22, 2024:
+Finalized project, removed unnecassary code, fixed minor bugs and finished the Readme
