@@ -15,12 +15,8 @@ const About = () => {
                     About Running Fridge
                 </h1>
                 <p className="mb-8">
-                    Hi, Im the creator of Running Fridge, Trevor, and I welcome you to my app! Please enjoy using the app and let me know of any issues as its a work in progress at this point.<br></br>
-                    Here at Running Fridge we strive to minimize food waste and maximize ease of tracking your groceries!<br></br>
-                    Every year Americans throw out thousands of pounds of food for many reasons including forgetting you even had it!<br></br>
-                    To help the family save money and use food efficiently we developed this app to track groceries, their expiration dates,<br></br>
-                    and even offer tasty recipes using food that is going to expire soon so it doesnt go to waste!
-                    Come join us today!
+                    My name is Trevor, I have served in the Marine corps in communications and worked in the IT industry for 10 years. I’ve taken a software engineering bootcamp and have some programming skills along with pursuing my BS in programming currently. With that, I’m always looking at current issues in our world, and my personal life, that can be addressed by a new application! This is why developed Running Fridge and look forward to its mass adoption.
+
                 </p>
                 <motion.a
                     href="#features"
